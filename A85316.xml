@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tythes vindicated from anti-christianisme and oppression. Or A brief discourse concerning ministers maintenance and tythes. Wherein is proved, that, paying and receiving of tythes doe not deny Christ to be come in the flesh, as the Kentish petitioners to the Parliament, Anno 1651. and with them now the Quakers doe clamorously affirm: choosing rather to lye in prison then pay tythes, as being a testimony that Christ is come in the flesh. With a short caveat to the weaker sort of people to beware of these deluded and deluding Quakers. By G. Firmin pastor of the church in Shalford in Essex.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85316</idno><idno type="EEBO-CITATION">99866706</idno>
+  <idno type="VID">118990</idno>
+  <idno type="EEBO-PROQUEST">2240941030</idno>
+  
+            <idno type="STC">Wing F968</idno>
+            <idno type="STC">Thomason E974_4</idno>
+            <idno type="STC">ESTC R207668</idno>
+            <idno type="PROQUEST">99866706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866706e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E974[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tythes vindicated from anti-christianisme and oppression. Or A brief discourse concerning ministers maintenance and tythes. Wherein is proved, that, paying and receiving of tythes doe not deny Christ to be come in the flesh, as the Kentish petitioners to the Parliament, Anno 1651. and with them now the Quakers doe clamorously affirm: choosing rather to lye in prison then pay tythes, as being a testimony that Christ is come in the flesh. With a short caveat to the weaker sort of people to beware of these deluded and deluding Quakers. By G. Firmin pastor of the church in Shalford in Essex.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+               </titleStmt>
+               <extent>[2], 29, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath. Webb and William Grantham at the black Bear in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes --  Great Britain --  History --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118990:1"/>
+            <p>TYTHES VINDICATED FROM <hi>ANTI-CHRISTIANISME</hi> AND <hi>OPPRESSION. OR</hi> A brief Discourse concerning Ministers Maintenance and Tythes.</p>
+            <p>Wherein is proved, That, <hi>Paying and Receiving of Tythes</hi> doe not <hi>deny Christ</hi> to be come in the flesh, as the <hi>Kentish Petitioners</hi> to the Parliament, <hi>Anno</hi> 1651. and with them now the <hi>Quakers</hi> doe clamorously affirm: choosing rather to lye in Prison then pay Tythes, as being a Testimony that <hi>Christ is come in the flesh.</hi>
+            </p>
+            <p>WITH A short Caveat to the weaker sort of People to beware of these deluded and deluding QUAKERS.</p>
+            <p>
+               <hi>By</hi> G. FIRMIN Pastor of the Church in <hi>Shalford</hi> in Essex.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath. Webb</hi> and <hi>William Grantham</hi> at the black Bear in St. <hi>Pauls</hi> Church-yard. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118990:2"/>
+            <pb n="1" facs="tcp:118990:2"/>
+            <head>Reader before I come to speak of Tythes give me leave to speak a few word con<g ref="char:EOLhyphen"/>cerning the Quakers, To the plainer sort of people</head>
+            <p>
+               <seg rend="decorInit">W</seg> What true English Christian can read those lines of a forraigne Protestant Di<g ref="char:EOLhyphen"/>vine,
+<note place="margin">Honor. Reg.</note> writing of the state of our Church since our troubles began without some grief? <hi>England in four years space is become an heap and sink of all errors and Sects:
+<note place="margin">Vind. foed. p. 122.</note> No Province from the beginning of the world ever brought forth in so litle a space so many monstrous Heresies as this.</hi> This report is <hi>too true,</hi> saith <hi>Mr Blake</hi> [now with God]</p>
+            <p>If it had truth then, surely it is too true now, for these <hi>Quakers</hi> were not known when he Printed his book; what a blemish will this be to our Church, so long as books shall last, and what a warning may it be for Christian States hereafter, how they make Acts for Toleration; and especially for Ministers, how they print and plead for Toleration, as some of ours have done, and now reap the fruit of their doctrine in these <hi>Quakers,</hi> by whom I hope God hath by this time convinced them of their error; though in the mean time the Church of God hath groaned and is like to groan under the Toleration so much pleaded for.</p>
+            <p>Many books have been printed against this generation, but the Divil is too hard for us in this people, who can Contribute to their Seducers, and so pay for the printing of their books themselves [the presse, it seems, being o<g ref="char:EOLhyphen"/>pen
+<pb n="2" facs="tcp:118990:3"/>for them] which they can freely give away to the ignorant poor people, who think much to give six pence for a book to lead them in the truth, choosing rather De<g ref="char:EOLhyphen"/>lusion and error at a cheaper rate. I intend but a few words, now [having written more largely against them] to those who are not yet gone, desiring the Christian Rea<g ref="char:EOLhyphen"/>der to observe what the Lord hath foretold of the latter times, 1 <hi>Tim.</hi> 4.1.2. and 2 <hi>Pet.</hi> 2.1, 2. where you see the Lord saith, <hi>many shall follow them,</hi> Many, take heed then thou best not one. Though this last text point at the <hi>Socinians</hi> in a special manner, yet also at the <hi>Quakers;</hi> for thus <hi>J. Tolderuy</hi> P. 7. [who was, and it may be is (if li<g ref="char:EOLhyphen"/>ving) a <hi>Quaker</hi>] relates of a <hi>Quaker</hi> that told him. <hi>That Son of God which died at Jerusalem was not the Redemer of man from sin</hi> &amp;c. you may read more in my former book, <hi>P.</hi> 50. What <hi>Howgill, P.</hi> 4. means, I cannot well tell, but to be sure his words are vile, speaking against us. <hi>Your hope, your faith, your Iustification is all at a distance grounded upon the report of Christ dying at Jerusalem and of their report that knew him, &amp;c. so are one with the faith the world hath.</hi> Observe, the Apostles were to be Christs witnesses. Read <hi>Luk.</hi> 24, 48. <hi>Acts</hi> 1.8. <hi>Asts</hi> 5.32. 2. <hi>Pet.</hi> 1.16, 17. 1. <hi>Joh.</hi> 1. ch. 1.2.3. v. Now Christ saith <hi>Joh.</hi> 17.20. <hi>that be prayes for those who shall believe on him through their word:</hi> see how cross this blasphemous Quaker, is to these Scriptures and word of Christ, and whether he be not of the same opinion with the former Quaker concerning that Christ which died at <hi>Jerusalem;</hi> he seems to be so, as are divers others.</p>
+            <p n="1">1.
+<note place="margin">First.</note> For their <hi>Catechism,</hi> as <hi>G.F.</hi> calls it. I never saw such a bundle of <hi>falshood</hi> and <hi>non-sense</hi> bound together; besides the absurdity of it, I think there is about one hun<g ref="char:EOLhyphen"/>dred and ninety questions in it, I do not remember ten questions in the whole book that are properly catecheti<g ref="char:EOLhyphen"/>cal; but the book for the body of it is grounded upon a false interpretation of the 1. <hi>Joh.</hi> 9. For this sense he giveth of it. <hi>The light which every man is enlightned with al brings to Christ and to confesse him.</hi> P. 13. P. 16.18.25. <hi>every
+<pb n="3" facs="tcp:118990:3"/>man with the lighe might see the Mediator between God and him.</hi> What mediator this man means I know not, but if he means him whom the Scriptures call the Media<g ref="char:EOLhyphen"/>tor, who dyed at <hi>Jerusalem;</hi> how abominably false is this Interpretation.</p>
+            <p n="1">1 I doubt not but it may easily be made good that if the people in the world be divided into 30 parts, that 25. parts, have no such light which leads them to Christ: <hi>Mr. Brerewood</hi> who hath taken pains to find out the <hi>tongues</hi> and <hi>religions</hi> of the world, saith, if the world be divided into 30 parts, that the <hi>Christians</hi> have scarce five parts, but the <hi>Mahumetans</hi> six parts, and the <hi>Pagans</hi> nineteen, and yet reckons not them moriads of Iews. Then be sure my assertion will be true, if his be true, however I doubt not of mine.</p>
+            <p n="2">2. Let these Quakers go to the Iews, and make them believe they have such a light: had the Iews this light in them which led them to Christ, to confesse him, and see him their Mediator, we should have good daies, and not be burdned with the Quakers as now we are. But how do the Iews abominate our Christ at this day.</p>
+            <p n="3">3. The next verse to that, 1. <hi>Joh.</hi> 9. quite overthrows the Interpretation; <hi>v.</hi> 10. <hi>the world knew him not.</hi> But this could not be if the quakers speak true, <hi>for they had all a light which led them to Christ,</hi> say they. the 5. <hi>v.</hi> also overthrows their Interpretation.</p>
+            <p n="4">4. Why then did Christ send forth <hi>Paul: Acts</hi> 26.18 <hi>to turn men from darknesse unto light.</hi> Observe. Christ doth not send <hi>Paul</hi> to presse men to obey <hi>that light</hi> of him which they had before, but first to turn them from <hi>darknesse</hi> to <hi>light;</hi> then they had not this <hi>light,</hi> in Christs esteem. Let Christ be true and all the Quakers lyars.</p>
+            <p n="5">5. The text saith: 1. <hi>Cor.</hi> 2.14. <hi>The natural man re<g ref="char:EOLhyphen"/>ceiveth not the things of the spirit of God,
+<note place="margin">J. P.</note> for they are foolishnesse to him, neither can he know them, for they are spiritually discerned.</hi> How crosse is this text to these qua<g ref="char:EOLhyphen"/>kers: One quaker begins his book with this text, and <hi>Eph.</hi> 2.3. and saith, <hi>that the state man is fallen into hath
+<pb n="4" facs="tcp:118990:4"/>so darkned the understanding,
+<note place="margin">J. P. p. 1.</note> whereby it comes to passe that the hearts of the people are blinded, and the Sons of men clouded in a night of ignorance. Whereby they cannot see discern, or understand the things of God, nor the Scriptures &amp;c.</hi> This quite overthrows the Catechism, and the qua<g ref="char:EOLhyphen"/>kers Interpretation.</p>
+            <p n="6">6. If every man that commeth into the world be thus enlightned, then those who came into the world before Christ: for the text saith, <hi>Every man:</hi> limits to none, but <hi>Eph.</hi> 2.12. <hi>they were without Christ in the world,</hi> had no knowledge of him to come.</p>
+            <p n="7">7. The Scripture saith the Lord <hi>hid these things, Mat.</hi> 11.25. and <hi>Joh.</hi> 12.40 <hi>their eyes were blinded that they should not see.</hi> This terrible judgment of God, was false if the quakers interpretation be true: but Gods words were found true.</p>
+            <p>If we knew no more what it were to believe in Christ, and to observe his light within us, then the quakers do, woe were to us.</p>
+            <p n="2">2.
+<note place="margin">Second.</note> The quakers will tell you, <hi>they own the Scriptures, every letter,</hi> but they own them not, as Christ and his Apostles owned them, therefore Christians, regard not their words, they abuse you.</p>
+            <p n="1">1. Jesus Christ never told us that the <hi>Spirit is the Saints rule, and that this rule is above the Scriptures,</hi> but this say the quaker <hi>R. H.</hi> against <hi>Mr. Stalham, P.</hi> 62. where you have two falsities. First, <hi>that the spirit is a rule.</hi> A ruler, or rule maker, and a rule, are not the same. To rule [as the spirit doth] and <hi>a</hi> rule differ; as to plow, and a plow. A rule, is the expression of the <hi>will</hi> of the ruler, determining what ought to be done or not done. Some sentence, Axiom, <hi>&amp;c.</hi> the Parliament is not the law.</p>
+            <p n="2">2. That the <hi>Spirit is a rule above the Scriptures.</hi> Woe to us, upon this ground, had the quakers power: how shall we know the spirit of God, if their spirit move to cut throats, to whoredome? this is their rule, and that is a<g ref="char:EOLhyphen"/>bove the Scripture.</p>
+            <p n="2">2. Jesus Christ sent all to the Scriptures, as the only
+<pb n="5" facs="tcp:118990:4"/>touchstone and way to try spirits, read <hi>Isa.</hi> 8.20. <hi>Joh.</hi> 5.39. &amp; he himself who was the lawgiver referred himself to be tryed by them: that then, which tryeth all spirits must needs be the supream rule to us. But the quakers deny this trying all by their infallible spirit, as <hi>J.N.</hi> against <hi>F. Harris,</hi> p. 10. Hence <hi>R.H.</hi> p. 63. <hi>We do not contradist our selves in the spirit of God.</hi> Which in my head before, he made the rule above the Scriptures.</p>
+            <p n="3">3. Christ sent men to the Scriptures alwaies for their guid, <hi>Luk.</hi> 16.29. <hi>Luk.</hi> 10.25.26. Christ did not send these men to lights within them as do the quakers, in all their books; but Christ saith, <hi>what is written in the law, how readest thou.</hi> Where doth Christ or the Apostles, bid men go to the light within them for their guide? give us one text. The quakers never bid men, <hi>Search the Scriptures: try all things by that law: compare your light, with the word written, they therefore are crosse to Christ.</hi>
+            </p>
+            <p n="4">4. Jesus Christ and his Apostles in their doctrines brought forth the Scriptures for their proof, this phraise <hi>It is written,</hi> is used by them about threescore times, at least, or a phraise like it. The men of <hi>Berea, Acts</hi> 17.11. commended for trying <hi>Paul</hi> by the Scriptures. But the quakers jeere us, because we adhere so to Scriptures, above their spirits, calling us <hi>literal Priests;</hi> and that we are only Ministers of the letters; as all of them, who oppose us, <hi>G.F. R.H. Mason, Parnel, &amp;c.</hi>
+            </p>
+            <p n="5">5. Whereas <hi>Mr. Stalham</hi> had said, the Scripture was given by the spirit for a rule, <hi>R. H.</hi> the quaker answers <hi>P.</hi> 66. this we desire a proose of by plain Scripture, <hi>and tell then we deny it:</hi> but why? because the <hi>spirit is your rule</hi> as before.</p>
+            <p n="1">1. But <hi>R.H.</hi> what difference between a <hi>Law</hi> and <hi>a moral rule,</hi> can your wisdome give us any? If a <hi>Law,</hi> then a <hi>Rule</hi> be sure. And are not the Scriptures called a <hi>Law?</hi> who reads them, that findes it not in a hundred places.</p>
+            <p n="2">2. What is the use of a Carpenters or Masons rule, &amp;c. whence the Metaphor is drawn? is it not to lay out their work direct or correct? see <hi>Paul</hi> giving all these uses of a
+<pb n="6" facs="tcp:118990:5"/>Rule to the Scriptures. 2 <hi>Tim</hi> 3.16.17. So many as to make the man of God perfect. then the Scriptures are a perfect rule, and we need no more.</p>
+            <p n="3">3. The Apostle who in his Epistle to the <hi>Galatians,</hi> gives the Epitome of the Gospel, in <hi>Chap.</hi> 6.16. calls it a rule expresly. The rule cannot be tyed up to the <hi>New Creature</hi> in <hi>v.</hi> 15. for then <hi>Paul</hi> should leave out the doctrine of justification, in which this Church was so cor<g ref="char:EOLhyphen"/>rupt, and which took up the chief part of his Epistle. Thus also, 3 <hi>Philip.</hi> 16. <hi>Let us walk by the same rule.</hi> This quaker denyes what <hi>Paul</hi> affirms.</p>
+            <p n="6">6. We never read in all the Scriptures of a people so <hi>vile,</hi> that when God had <hi>written to them his law,</hi> 8 <hi>Hos.</hi> 12. dare object against it; that the Saints before the law written, had as perfect a law, and upon this to slight the <hi>written</hi> law; but thus do the quakers in many of their books, and one in a letter to me; who speaks blasphem<g ref="char:EOLhyphen"/>ously.</p>
+            <p n="3">3.
+<note place="margin">Third.</note> The Lord Jesus instituted his Supper, till <hi>his com<g ref="char:EOLhyphen"/>ming</hi> 1 <hi>Cor.</hi> 11.26. and Baptism with water, till the end of the world. <hi>Mat.</hi> 28.19.20. <hi>Mar.</hi> 16.16. so long as <hi>believing, baptizing,</hi> in this world: but the quakers have destroyed these commands, with all the instituted wor<g ref="char:EOLhyphen"/>ship of Christ; and therein have 1. blotted out the second commandement. 2. Denied God that which he ever had since the world began. 3. Took away that by which God is most visibly held out in the world. 4. Deny him the Homage and duty we owe him. 5. Slight the means by which Christ hath promised to convey his blessings. What a sin is this, and to pay them home, God hath given them up to a worship of their own; to meet together, and set all dumb, and his is <hi>worshipping God in Silence,</hi> grounded on <hi>Ezra.</hi> 9.3. &amp; <hi>Job.</hi> 2.13. O horrible blinduesse, but thou art righteous O Lord in thy Judgments, to give them up to such a worship [having destroyed thine] which not only Christians but Heathens will laugh at, to hear it called <hi>worship.</hi> The naturall worship of God, they have destroyed unlesse their spirit move them.</p>
+            <pb n="7" facs="tcp:118990:5"/>
+            <p>For both the Sacraments, their books speak much against them, calling them <hi>Carnal things,</hi> abusing <hi>Coloss.</hi> 2.20. where the word, <hi>Ordinances,</hi> is applying it to Christs In<g ref="char:EOLhyphen"/>stitution, when as the Apostle tell us what Ordinances they were. <hi>v.</hi> 21.22. saith, they were <hi>doctrines of men,</hi>
+               <note place="margin">Parker, p. 16.</note> which some Christians had taken in. And in the same <hi>chapter v.</hi> 12. had spoken of <hi>Baptism</hi> with honor: but hear this quaker speak a few lines before. <hi>All the com<g ref="char:EOLhyphen"/>mands and Ordinances of Christ which are durable, pure, spiritual, and substantial, which tend to a godly and up<g ref="char:EOLhyphen"/>right life, according as we are moved and guided by the pure spirit and power of God we owne and practise.</hi> The latter clause which hath much evil couched under it, I must now let passe, but for the former part, what doth it imply, but as if Christ <hi>bad some commands &amp; ordinances, that were not pure, and did not tend to a godly life?</hi> what wretchednesse is this.
+<note place="margin">p. 18, 19.</note> But I must passe by what I could have said, and speak only to <hi>Baptism,</hi> concerning which he saith <hi>One baptism with the holy Ghost he owns, but for baptizing with water, he demands who gave commission?</hi> then quotes 1. <hi>Cor.</hi> 1.17.</p>
+            <p n="1">1. Not to speak of <hi>Johns</hi> Baptism, which was with <hi>wa<g ref="char:EOLhyphen"/>ter, Mat.</hi> 3.11. After Christs Ascention it was performed with water. <hi>Acts</hi> 8.36. 38 39.</p>
+            <p n="2">2. Note, where the word <hi>Baptism</hi> is put alone it doth ever note baptism with <hi>water,</hi> as I could give you several Instances. But where baptism with the spirit is meant some word is added to shew it. <hi>Read Mat.</hi> 3.11. <hi>Luk.</hi> 3.16. <hi>Mar.</hi> 1.8. <hi>Joh.</hi> 1.33. <hi>Acts.</hi> 1.5.</p>
+            <p n="3">3. We are commanded to baptize <hi>in the name of the holy Ghost, Mat.</hi> 28.19. But to baptize <hi>with the holy Ghost</hi> in the <hi>name of the holy Ghost,</hi> is a phrase that seems absurd.</p>
+            <p n="4">4. This baptizing with the holy Ghost, is meant either of the saving grace or extraordinary gifts. If of saving grace, let the quakers prove that all those in the <hi>Acts</hi> 2. and <hi>Acts.</hi> 8. <hi>&amp;c.</hi> were baptized with the holy Ghost in that sense. <hi>Simon Magus</hi> was not <hi>Acts</hi> 8.13.23. If it be meant of extraordinary gifts, I am sure <hi>Parker</hi> nor any
+<pb n="8" facs="tcp:118990:6"/>of the quakers are so baptized. Observe: <hi>Acts.</hi> 8.16. they were baptized, yet the <hi>holy Ghost</hi> was fallen upon <hi>none</hi> of them; then their baptism was not with the <hi>holy Ghost.</hi> But it must be with <hi>water.</hi>
+            </p>
+            <p n="5">5. Observe. the <hi>holy Ghost</hi> was given before men were baptized: <hi>Acts.</hi> 10.44.47. Then their baptism was ano<g ref="char:EOLhyphen"/>ther thing, besides the <hi>holy Ghost.</hi> So read, <hi>Acts.</hi> 9.17.18. where these are distinguished. The gift of holy Ghost, and baptism.</p>
+            <p n="6">6. We are commanded to baptize, and Christ is with us teaching and baptizing to the <hi>end of the world, Mat.</hi> 28.19.20. And so long as believing is, <hi>Mar.</hi> 16.16. But no <hi>man</hi> living now gives the <hi>holy Ghost.</hi> Then it must be with <hi>water.</hi>
+            </p>
+            <p n="8">8. As the other Sacrament hath outward Elements <hi>bread</hi> and <hi>wine,</hi> till Christs comming, so this of <hi>water Ezek.</hi> 36.25. 1 <hi>Pet.</hi> 3.21.</p>
+            <p n="9">9. If baptism were not with <hi>water,</hi> then the Apostles argument to take off the <hi>Corinthians, Epist.</hi> 1. <hi>Chap.</hi> 10. <hi>v.</hi> 2. from trusting to Church priviledges, and in particular to baptism, were in vain. I could give more arguments but let these suffice.</p>
+            <p>As to 1. <hi>Cor.</hi> 1.17. Read <hi>ver.</hi> 14.15.16. The answer is clear. Baptize he did, though preaching is the most difficult and laborious work; but since the <hi>Corinthians</hi> were so apt to make divisions and cry up such as had baptized them, <hi>Paul</hi> was now glad, that he had baptized no more of them, [but left them to others to baptize them] so that they could not say <hi>Paul</hi> baptized <hi>in his name v.</hi> 13, 15.</p>
+            <p>But else <hi>Pauls</hi> commission was to <hi>baptize</hi> and preach <hi>Mat.</hi> 28.19. Observe, that is spoken in Scripture some<g ref="char:EOLhyphen"/>times <hi>negatively</hi> which is meant only <hi>Comparatively.</hi> As, <hi>Hos.</hi> 6.6. God commanded both Sacrifice and mercy. So here <hi>Paul</hi> sent to both; but rather to preach, then baptize, speaking <hi>Comparatively.</hi>
+            </p>
+            <p n="4">4.
+<note place="margin">Fourth.</note> The Quakers boast of their <hi>Immediate</hi> call to <hi>prate, [preaching,</hi> I will not call it] quoting <hi>Gal.</hi> 1.1. and <hi>Acts</hi> 13.2. and say <hi>we</hi> are sent by <hi>men.</hi>
+            </p>
+            <p n="1">
+               <pb n="9" facs="tcp:118990:6"/>1. Observe. Christ never sent out any <hi>immediatly,</hi> but he did so furnish them with extraordinary gifts as convinced all men of their calling, read <hi>Mat.</hi> 10.8. <hi>Luk.</hi> 10.9.17. 2 <hi>Cor.</hi> 12.12. <hi>John</hi> indeed did no miracles, but there was a prophesie of him in the O. T. <hi>Mal.</hi> 3.1. <hi>Jsa.</hi> 40.3. which Christ doth quote, <hi>Mat.</hi> 11.10. Is it thus with you quakers?</p>
+            <p n="2">2. Christ being the Messiah, the great King prophesied of to come, we might well expect when he did come he should send out servants <hi>Immediately:</hi> but he being come, and having sent them forth qualified as before, that now we should expect others, give us a ground for it. The Churches were built upon the foundations of the <hi>Apostles and Prophets, Eph.</hi> 2.20. So the <hi>Holy Jerusalem,</hi> the purest estate that ever shall be <hi>Rev.</hi> 21.14 what use then of other Apostles, much lesse of silly heretical quakers.</p>
+            <p n="3">3. Yet If any could come and work miracles, and crosse the doctrine of Christ, we must not believe them. <hi>Deut.</hi> 13.1, 2. <hi>Mat.</hi> 24.24.</p>
+            <p>Now then if the quakers, 1. can shew from the Scrip<g ref="char:EOLhyphen"/>ture that such Apostles are yet to come [of false prophets and Apostles to come, we read <hi>Mat.</hi> 24.24. 2. <hi>Cor.</hi> 11.13.14. and they are come:] 2. and if they can do the wonders and miracles which <hi>Paul</hi> did 2. <hi>Cor.</hi> 12.12. as they quote his call <hi>Gal.</hi> 1.1. for their call; 3. and speak as Christ did: then we embrace them. But none of these appear but quite contrary, they pull down what Christ set up; so that their Commission you may find in 1 <hi>Kings</hi> 22.21.22.</p>
+            <p>Christ never sent fools of his message immediately, for Prophets or Apostles, <hi>Pro.</hi> 26.6. but these are a part of irrational, ignorant and absurd men.</p>
+            <p>As for us we are as truly sent by the <hi>will</hi> of God, as those Ministers, whom <hi>Paul</hi> and <hi>Barnabas</hi> ordained <hi>Acts.</hi> 14.23. <hi>Titus.</hi> 1.5. 1 <hi>Tim.</hi> 4.14. and <hi>Chap.</hi> 22. and 2 <hi>Tim.</hi> 2.2. none of which were sent <hi>immediatly</hi> no more were they of <hi>Ephesus;</hi> yet <hi>Acts</hi> 20.28. <hi>the holy ghost made them over<g ref="char:EOLhyphen"/>seers.</hi> Nor <hi>Archippus Col.</hi> 4.17. yet received his ministry
+<pb n="4" facs="tcp:118990:7"/>from <hi>the Lord:</hi> our calling then is truly divine. As was theirs, so. Not the quakers.</p>
+            <p n="5">5.
+<note place="margin">Fifth.</note> For their uncivil brutish carriage to men abusing. <hi>Jam.</hi> 2.9. read the language and carriage of godly men <hi>Acts.</hi> 26.25. 1. <hi>Kin.</hi> 2:19. <hi>Gen</hi> 18:2: and 24.12. 1. <hi>Sam:</hi> 1.15.26. 1. <hi>Pet.</hi> 3.6. <hi>Gen.</hi> 31.35. <hi>Epist.</hi> 2. <hi>Joh.</hi> 1. and <hi>v.</hi> 5. twice calls <hi>her Lady:</hi> if <hi>John,</hi> were guided by the holy spirit, then the quakers by the devil.</p>
+            <p>For their quaking, besides what we know lately, read my other book <hi>P.</hi> 50.55. where Instances are given, which quaking be sure must come from the Devil. I find un<g ref="char:EOLhyphen"/>der the Emperor <hi>Valentinianus</hi> about 374. the <hi>Massiliani,</hi> cast away both the Sacraments as uselesse abstained from Church communion; when they were shaken by the De<g ref="char:EOLhyphen"/>vil, then they boasted of the presence of the spirit, wore long haire like women, wore sackcloth abroad. Compare the quakers with these Hereticks.</p>
+            <p>For the rest of their errors, I leave you to other books, where you may find their blasphemious doctrine; that foul mouthd quaker who wrote to me subscribed his name as I knew him [he said;] a neighbour of mine asked his friend what was his other name, that I did not know him by? he was loth to tell the partie, but at last said he was known amongst his Sect, [giving them a name, the party could not remember] to be <hi>A Christ</hi> or <hi>Christ.</hi> A brave Christ, but more truly a <hi>Child</hi> of the devil.</p>
+            <div type="part">
+               <head>Concerning the maintenance of Ministers.</head>
+               <p>THis is the best <hi>posset ale</hi> to help the quakers vomit up their choler: being also one of the most likely argu<g ref="char:EOLhyphen"/>ments to take with those whose mammon is their God. Ah Jesuit are you there? we see <hi>Joabs</hi> hand both fingers and thum. <hi>R.H.</hi> against <hi>Mr Stalham P.</hi> 56. calls it, the <hi>cur<g ref="char:EOLhyphen"/>sed practise of maintenance, which is the greatest oppression this day in England.</hi> Applying the words of <hi>Jsa.</hi> 56.11. and <hi>Micah.</hi> 3.11. to us, as if we were such vile prophets and Priests as there are mentioned. <hi>The Lord said to
+<pb n="1" facs="tcp:118990:7"/>Satan the Lord rebuke thee, Zech.</hi> 3:2.</p>
+               <p>As to the Ministers maintenance take these propositions.</p>
+               <p n="1">1. Proposition.
+<note place="margin">Prop. 1.</note>
+                  <hi>It is agreeable to the Law of Christ [the King of his Church] that the Ministers of his Gospel should be maintained.</hi> Let us hear <hi>Paul</hi> pleading this cause for himself and for us, [who is so much brought a<g ref="char:EOLhyphen"/>gainst us] <hi>Gal.</hi> 6.6. 1. <hi>Tim</hi> 5.17.18. but chiefly in 1 <hi>Cor.</hi> 9.6. to 15. the question is, <hi>may Paul and Barnabas leave of working with their hands, and by consequence require maintenance of the Churches?</hi> he answers in the affirmitive, they may, and this he proves</p>
+               <p>First, from the examples of other of the Apostles: <hi>v.</hi> 6. or I <hi>Only;</hi> which word plainly carries it, that all but he and Barnabas were maintained by the Churches.</p>
+               <p>Secondly, from natural and civil equity, <hi>v.</hi> 7. simili<g ref="char:EOLhyphen"/>tudes taken from Soldiers, planters of vineyards, shep<g ref="char:EOLhyphen"/>herds; if they, then we.</p>
+               <p>
+                  <hi>Ob.</hi> The citizens of <hi>Kent</hi> [not Sion, as they stile them<g ref="char:EOLhyphen"/>selves] <hi>P.</hi> 5. <hi>tell us, we water forrests, feed goat-herds, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Through mercy we have in many of our Churches where tithes are taken, as good sheep, and plants which bear as good grapes, as any of them, and better.</p>
+               <p n="2">2. What if <hi>Ierusalem</hi> bring forth wild grapes, <hi>Isa.</hi> 5.4. must not the true Ministers have maintainance? they had sure.</p>
+               <p n="3">3. There were goates in this Church of <hi>Corinth,</hi> yet these <hi>Paul</hi> might demand maintenance of; if of the goats then of the sheep?</p>
+               <p n="4">4. While we labour to make vineyards of forrests, and sheep of goats, shall we have nothing? let the labourer stay tell we see there comes a good crop or vintage of his la<g ref="char:EOLhyphen"/>bour before we will pay him. This is honesty amongst these citizens. As for <hi>milking of you till blood come,</hi> I shall speak to that anon.</p>
+               <p>Thirdly, He proves it from the Testimony of the law: <hi>v.</hi> 8.9. concerning <hi>the not muzling of the mouth of the Oxe.</hi> which, <hi>v.</hi> 10. <hi>Paul</hi> saith, was spoken <hi>altogether for our sakes.</hi> The Lord then muzzle up your reviling mouths.</p>
+               <pb n="12" facs="tcp:118990:8"/>
+               <p>Fourthly, from the rule of justice. <hi>v.</hi> 11. spiritual things, will deserve carnal.</p>
+               <p>Fifthly, from the example of their own officers; if they may take them, much more we. <hi>v.</hi> 12.</p>
+               <p>Sixthly, from the example of the Levites, under the old ministration, <hi>v.</hi> 13. who were maintained, &amp; that liberally.</p>
+               <p>Seventhly, If you will have him speak out plainly, <hi>even so the Lord</hi> [no lesse authority] <hi>hath ordained, that they which preach the gospel should live of the gospel</hi>
+               </p>
+               <p>Now quakers compare this belchings of yours with these three holy Scriptures, and see whether maintenance be not due to the Ministers of the Gospel.</p>
+               <p n="2">2.
+<note place="margin">Prop. 2.</note> Proposition: <hi>The maintenance of the ministry ought not to be beggarly, but honorable.</hi>
+               </p>
+               <p n="1">1. 1 <hi>Tim.</hi> 5.17.18. <hi>Paul</hi> calls for <hi>double honor,</hi> respect, and maintenance, both which the quakers deny us. <hi>Almes</hi> is not <hi>Honor.</hi>
+               </p>
+               <p n="2">2. 1 <hi>Tim.</hi> 3.3. and <hi>Tit.</hi> 1.8. Ministers must be given to <hi>Hospitality,</hi> but if their maintenance be such as will not maintain their own families, how can they enter<g ref="char:EOLhyphen"/>tain others. It is my one case, and so of many more hundred ministers; had we no more then what we have from our people, we could not tell how to subsist; and yet live at a low rate: I could speak more but refrain.</p>
+               <p n="3">3. It is the duty of ministers to provide for their own families, as well as others, they must not be <hi>Infidels.</hi> How shall they do this if they cannot lay by something out of their maintenance. To work with hands, was never their calling; we are commanded, 1 <hi>Tim.</hi> 4.15. to <hi>give our selves wholy to these things.</hi> How can we be <hi>wholly</hi> in these [and all little enough for so weighty work] and yet goe to other works to maintain our selves? 2. <hi>Tim.</hi> 2.4. <hi>not entangle our selves with the affairs, &amp;c.</hi>
+               </p>
+               <p n="4">4. The place and work are honorable; <hi>Majors</hi> &amp; <hi>Colonels</hi> in their warfare think they deserve honorable pay: and why not the Ministers of the Gospel in their warfare.</p>
+               <p n="5">5. The Lord allowed the old ministers very honorable maintenance, such as the quakers would gruge to see us
+<pb n="13" facs="tcp:118990:8"/>enjoy now, but yet a proportion is due. So hath God ordained: 1. <hi>Cor.</hi> 9.14.</p>
+               <p n="3">3. Proposition:
+<note place="margin">Prop. 3.</note>
+                  <hi>The Apostles themselves did not all work for their livelihood, but even all of them sometimes, and most of them [I conceive] alwaies did receive maintenance from the Churches.</hi>
+               </p>
+               <p>
+                  <hi>Paul</hi> saith of himself, 2 <hi>Cor.</hi> 11.8. <hi>I robbed other Churches taking wages of them to doe you service.</hi> The other A<g ref="char:EOLhyphen"/>postles, whose callings before were to be fisher men, I conceive they did wholly lay them by, and were main<g ref="char:EOLhyphen"/>tained: Thus <hi>Acts</hi> 2 &amp; 4.35. <hi>when brought the prices of their possessions, they laid them down at the Apostles feet.</hi> The A<g ref="char:EOLhyphen"/>postles then were maintained out of the common stock, as the rest.</p>
+               <p>1. <hi>Cor.</hi> 9.6. Or I <hi>only</hi> and Barnabas, have not we power to forbear working? the other Apostles can forbear why, not we? where do you find the <hi>eleven</hi> after the holy Ghost came upon them <hi>Acts</hi> 2. wrought with their hands for their livelihood. the 6. <hi>Acts.</hi> 4. I think will confute it.</p>
+               <p n="4">4. Proposition.
+<note place="margin">Prop. 4.</note>
+                  <hi>Though Paul did labour with his own hands, yet this doth not forbid us to take maintenance nor enjoyn us to work with our hands for our livelihood, when the Churches are able to maintain us.</hi>
+               </p>
+               <p n="1">1. <hi>Paul</hi> had then power to leave working, 1. <hi>Cor.</hi> 9.6. he had a <hi>jus</hi> to maintenance, though upon some grounds he forbare, 1 <hi>Cor.</hi> 9.12. and 2 <hi>Cor.</hi> 11.12. no law of Christ kept him from it.</p>
+               <p n="2">2. <hi>Paul</hi> had his skill of <hi>Tent-making</hi> before he was called to be an Apostle, as I conceive. Being of the Tribe of <hi>Benjamen,</hi> a Pharisee, must look to live by him<g ref="char:EOLhyphen"/>self: so were these elders to whom <hi>Paul</hi> wrote, they had their trades and callings by which they lived in the cities before they heard of a gospel, &amp; could live by their trads, as other citizens did. But tis not so now, unlesse with those <hi>Weavers, Taylours, Shoomakers,</hi> and other Trades<g ref="char:EOLhyphen"/>men, who turn Ministers.</p>
+               <p n="3">3. <hi>Paul</hi> was extraordinarily qualified, needed no study
+<pb n="8" facs="tcp:118990:9"/>to preach nor to confute heresies, which extraordinary gifts we have not, but must take pains unlesse we should babble as some quakers doe, or set up a new ridiculous worshiping of God in Silence, as other quakers, then in<g ref="char:EOLhyphen"/>deed we shall need no preparation, were our lives twice as long as they are; we find the work of the ministry so large and difficult, that though we tend nothing else, and follow this hard, yet we shall have cause to say, <hi>who is sufficient for these things?</hi> 2 <hi>Cor.</hi> 2.16.</p>
+               <p n="5">5.
+<note place="margin">Prop. 5.</note>
+                  <hi>Those ministers who were industrious in their work, preached the word of God soundly, and endeavored to walk accordingly, God never called one of these</hi> hirelings, <hi>or up<g ref="char:EOLhyphen"/>braided them as being greedy of gain, because they took maintenance.</hi> Let all the quakers, and fifty monarchy<g ref="char:EOLhyphen"/>men, bring forth <hi>One,</hi> whom ever God reproved, that was qualified as I have mentioned; and I am sure we have ma<g ref="char:EOLhyphen"/>ny hundreds of such in England [we doubt not to prove it against all adversaries, if they be rational men who will undertake the contrary] against whom yet these quakers have turned the Lords words spoken against his vile ene<g ref="char:EOLhyphen"/>mies, but they must remember, they must give an account for abusing his holy word, taking his name in vain.</p>
+               <p>Surely we have as good as title to maintenance, as the seducing quakers, to whom the seduced give entertain<g ref="char:EOLhyphen"/>ment and contribution. Those who make use of <hi>Mat.</hi> 10.8. against us, do but shew their ignorance, in not ob<g ref="char:EOLhyphen"/>serving that Christ speaks of gifts of healing, and of mira<g ref="char:EOLhyphen"/>cles, which he <hi>freely</hi> gave them, not to gain mony by them [as they might abundance] but as subservient to the preaching of the Gospel; therefore freely gives them, yet adds in <hi>v.</hi> 10. <hi>the workman is worthy of his meat.</hi>
+               </p>
+               <p>We have then the Lord Christ, and <hi>Paul</hi> from Christ confirming the maintenance of the ministry, for the others who oppose it, let them bark still.</p>
+               <p>
+                  <hi>Obj</hi> But though maintenance be allowed, yet not tythes. Here two things they plead.</p>
+               <p n="1">1. <hi>Conscience.</hi> Thus the citizens of Kent: in their peti<g ref="char:EOLhyphen"/>tion to the Parliament. <hi>P.</hi> 2. and <hi>P.</hi> 17. so. <hi>P.</hi> 24. <hi>the law
+<pb n="5" facs="tcp:118990:9"/>which foreeth Tythes burdens our consciences.</hi>
+               </p>
+               <p n="2">2. <hi>Oppression.</hi> as <hi>R H. before quoted.</hi> and, the same Kentish citizens.</p>
+               <p>For Conscience; though I conceive, it would not trou<g ref="char:EOLhyphen"/>ble their Consciences to deny all maintenance to the ministry, whose consciences are wounded [as they say] by paying of tythes, yet let us see what it is wounds their consciences, and this I finde, 1 <hi>Tyths deny Christ come in the flesh.</hi> Thus the <hi>Kentish citizens P.</hi> 6. thus <hi>Clark P.</hi> 24. <hi>All they who do pay tythes, and all they who receive tythes, deny Christ Jesus by their works to be come in the flesh.</hi> This our quakers mouths are full of about us, that we are guilty of this <hi>Antichristianisme.</hi> And upon this ground, they deny <hi>the payment of tythes and suffer imprisonment, in their testimony that Christ is come.</hi> ib.</p>
+               <p>But which way doe tythes deny? <hi>they were appointed for Tabernacle, and Alter service, now the Tabernacle and Alter being gone, Tyths ought also to cease.</hi> The force of the reason, and that text <hi>Heb.</hi> 7.12. [which is all the ground they can bring, all the rest of their words, being but flo<g ref="char:EOLhyphen"/>rishes] I will consider of anon.</p>
+               <p>Its a question much controverted <hi>quo jure,</hi>
+                  <note place="margin">Q.</note> Tythes are required and payed under the Gospel?</p>
+               <p n="1">1. Some conceive they are due <hi>jure divino</hi> to the Mi<g ref="char:EOLhyphen"/>nistry, now under the Gospel, yea so that though the Magistrate should otherwaies provide for the maintenance of the Ministry, yet Tythes are due to them, and cannot be alienated, and this by <hi>Divine right</hi> This is the title by which the quakers suppose we claim tyths, and the <hi>citizens of Kent,</hi> spend the chiefest part of their book against it; but against this many of our Divines dispute, asserting that neither <hi>jure naturali,</hi> nor <hi>jure divino positivo,</hi> tythes are due to Gospel ministers, and they have argued the case a little better then the <hi>Kentish citizens,</hi> so that they might have spared their pains, or now make use of their book to light Tobaccho</p>
+               <p>Not only our divines, but the most learned of the Pa<g ref="char:EOLhyphen"/>pists [schoolemen, &amp;c] are against the <hi>Canonists</hi> in this
+<pb n="16" facs="tcp:118990:10"/>point. As <hi>Aquin.</hi> who denyeth Tythes to belong to the moral law: so <hi>Grego. de valen. To.</hi> 3. <hi>Dis.</hi> 6. <hi>q.</hi> 5. <hi>p.</hi> 1. <hi>So Arragon</hi> upon <hi>Thom.</hi>
+                  <note place="margin">2. 2ae. q. 37. a. 1.</note> p. 697. <hi>So Suarez de legibus.</hi> p. 93. col. 1. <hi>So Bellarim. To.</hi> 2. <hi>p.</hi> 127.</p>
+               <p>Secondly, The Papists say they are due to the Mi<g ref="char:EOLhyphen"/>misters, <hi>jure ecclesiastico.</hi> Thus <hi>Arragon. Decimae quan<g ref="char:EOLhyphen"/>tum ad</hi> quotam, <hi>in lege evangelica ex jure tantum huma<g ref="char:EOLhyphen"/>no pontificio institutae sunt,</hi> &amp;c. <hi>ib.</hi> Thus also <hi>Valentia, ib.</hi> This also we renounce, we claim no Tythes by any such title. If you say, how then? I answer.</p>
+               <p>Thirdly, Maintenance we claim <hi>jure divino,</hi> by Gods law, but Tythes we claim <hi>jure humano politico.</hi> By mans law: this being the maintenance which the civil power hath given and appointed for the Ministry of England. So that I answer to the quakers, who so often urge our people, shew but own text in the New Testament by which your Ministers receive Tythes?</p>
+               <p>
+                  <hi>For maintenance I goe to the</hi> New Testament [I gave you several texts before] <hi>but for Tythes I goe to West<g ref="char:EOLhyphen"/>minster.</hi>
+               </p>
+               <p>But further let us examine one question, <hi>whether may the civil power appoint Tythes for the maintenance of Mi<g ref="char:EOLhyphen"/>nisters?</hi>
+               </p>
+               <p>Our adversaries say they must not. Thus <hi>Clark</hi> p. 24. <hi>charge those who make such laws, to deny Christ come in the flesh.</hi>
+               </p>
+               <p>How this phansie of these-men, and our <hi>Creed</hi> wherein we so professe Christ come, <hi>born of the Virgin</hi> &amp;c. Our faith in him and preaching of him can stand together, I know not: but however, to make way to my answer take these <hi>propositions:</hi>
+               </p>
+               <p>First,
+<note place="margin">Prop. 1.</note> All Christian and godly Magistrates are bound to take care that that God and Christ whom they know and believe in, be also made known unto their people, that so (if possible) their people with them may know and believe in the same God and Christ and live in all <hi>godlinesse,</hi>
+                  <note place="margin">1 Tim. 2.</note> as well as <hi>Honesly.</hi> This I goe not about here to prove, it is done elsewhere, see in <hi>Mr. Marshalls Sermon,</hi>
+                  <pb n="17" facs="tcp:118990:10"/>upon the <hi>civil Magistrates power, in matters of Religion.</hi> With my notes upon it. p. 14.15.</p>
+               <p>Secondly, If so:
+<note place="margin">Prop. 2.</note> Then they are bound to send out qualified men called and gifted, according to the laws of that God and Christ whom they believe in, to teach their people the knowledge of God and Christ; and what ever duties else Christ requires: this also is easily proved: but see <hi>Mr. Marshall. ib.</hi>
+               </p>
+               <p>Thirdly, The law of nature, the law of nations,
+<note place="margin">Prop. 3.</note> and the law of God [as before proved] teach these Ma<g ref="char:EOLhyphen"/>gistrates, that these men labouring in this manner, ought to be maintained; and if they are bound to the former then to this as well.</p>
+               <p>The quakers here Object: <hi>The Kings and Rulers of the earth may with the consent of the people assembled in Council, raise mony for the publick good, to preserve the Nations peace and welfare, but they ought not to take away the peoples good, the increase of their seed &amp;c. and give to their own Ministers, this is evil and abominable.</hi> It is too tedious to transcribe all: <hi>Clark:</hi> p. 54.</p>
+               <p>Let this quaker leave out these words, <hi>take away,</hi> and <hi>own Ministers,</hi> and let it run as it did before, <hi>may not raise mony</hi> or maintenance, not for <hi>their own,</hi> but for Christs Ministers; and then give us a wise reason why the Magistrate may not as well <hi>raise mony</hi> [If you will call it so] for the interest of God and Christ, as for himself. How he comes to have more power over the estates of men for himself and his interest or the nations safety, then for God and his interest, who gave them their estates, when as the <hi>fulnesse of the world is the Lords. Psa.</hi> 24.1. Magistrates raise mony for <hi>offensive</hi> warrs, as well as <hi>defensive,</hi> but it may be the quakers will not allow this.</p>
+               <p>
+                  <hi>Nehemiah</hi> in the <hi>chap.</hi> 10. and <hi>Hezekiah</hi> 2. <hi>Chron.</hi> 31.4. Took care for the maintenance of the Priests, and Levites then it is as much the duty of godly Kings and Magistrates now to command the people to maintain those who are Gods Ministers.</p>
+               <p>
+                  <hi>Obj:</hi> But there was a command for Tythes.</p>
+               <pb n="18" facs="tcp:118990:11"/>
+               <p>
+                  <hi>Ans.</hi> I am not come at <hi>Tythes</hi> yet, there are as clear commands for maintenance, and that I am yet pleading for, the Magistrate is bound to look to; as <hi>Hezekiah</hi> and <hi>Nehemiah</hi> to tythes.</p>
+               <p>
+                  <hi>Obj.</hi> The <hi>citizens of Kent</hi> p. 12. tell the Parliament, that we should goe to the Church, according to <hi>Mat.</hi> 18. and not to them, if we want maintenance.</p>
+               <p n="1">1. <hi>Ans.</hi> Are you so wise? then by you we shall have a Church. The poor must be maintained also, but I doubt the poor will hardly venter themselves in <hi>England</hi> upon your obedience to that rule, nor doth the Magistrate leave them only to that. Mens covetuous lusts they know would make bold with the rule, and much more with Ministers, who are opposing of their lusts.</p>
+               <p n="2">2. The civil power I hope may make laws to force men to doe those things which the word of God also comman<g ref="char:EOLhyphen"/>deth in many cases, or else <hi>Meum</hi> &amp; <hi>Tuum,</hi> and mens lusts would ruine England quickly. And this case which the word, and light of nature, and law of Nations, main<g ref="char:EOLhyphen"/>taines, they may as well provide for, and we may seek to them for it.</p>
+               <p n="4">4. Proposition:
+<note place="margin">Prop. 4.</note> The text speaketh plainly, <hi>Gal.</hi> 6.6. <hi>Let him that is taught in the word, communicate unto him that teacheth in</hi> All <hi>good,</hi> here is <hi>jus Divinum.</hi> The word <hi>All</hi> [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] is a large word. Now I think, <hi>Corne, wool, hay,</hi> &amp;c. Such things as are payed for Tythes, must needs be comprehended under the word <hi>All;</hi> Vnlesse they be <hi>no goods,</hi> or <hi>good things.</hi> The Lord hath tyed us up to take Money only, but certainly such things as do concern our livelihood, <hi>directly</hi> as well as <hi>Virtually</hi> we may demand, and the Magistrate may appoint: this text giveth him clear ground; and out of such things his old Ministers were maintained who did teach the people, &amp;c.</p>
+               <p>We do not read in the <hi>N.T.</hi> of whole Nations that re<g ref="char:EOLhyphen"/>ceived the Gospel; that which we read is, that some Cities received it [I mean some of the people, not a whole city] we have but litle of Country villages if any thing at all,
+<pb n="19" facs="tcp:118990:11"/>whence no wonder though we do not find mention of the Tythes of Corn payed to Ministers in the new Testa<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="5">5. Proposition: <hi>To pay out of the increase,
+<note place="margin">Prop. 5.</note> can be no way repugnant to reason or Scripture;</hi> Let the quakers produce one Scripture against it.</p>
+               <p>First, it seems most proper, and the most easie to pay out of increase</p>
+               <p>Secondly, in one sense it cannot be otherwise. For if <hi>Gal.</hi> 6.6. will allow me <hi>Corn, wooll,</hi> &amp;c. These must be of the increase; if not this year, then some other year; but to be sure there was increase. The same for the increase of Money.</p>
+               <p>Thus farr then I have brought it, that the civil power may make laws to command their subjects to pay, <hi>Corn, wooll.</hi> &amp;c. [what things are communicable, &amp;c. accord<g ref="char:EOLhyphen"/>ing to <hi>Gal.</hi> 6.6.] and that must be of the increase, as I have shewed, unto the Ministers of the Gospel.</p>
+               <p>Now I come to the pinch of the question, <hi>why may not the civil power command the Tenth part of the increase to be payed to the Ministers of the Gospel.</hi>
+               </p>
+               <p>If the 7. <hi>Heb.</hi> 12. Will not carry it for the negative I am sure no text in the <hi>N.T.</hi> will: I would have bestowed some words in opening of the verse, but that I see I exceed what I intended at first for shortnesse: Thus the Apostle argues: <hi>Perfection is not by the Levitical Priesthood:</hi> How do you prove it? <hi>because another priesthood must rise af<g ref="char:EOLhyphen"/>ter the order of Melchisedek,</hi> &amp;c. <hi>v.</hi> 11. <hi>Obj.</hi> But sup<g ref="char:EOLhyphen"/>pose a Priest must rise after <hi>Melchisedeks</hi> order, may not yet the order of <hi>Aaron</hi> stand; <hi>no, v.</hi> 12. <hi>The Priesthood be<g ref="char:EOLhyphen"/>ing changed, the law, the institution of Aaron, or the old Covenant, must be changed also.</hi> This is the true sense of the Apostle. Though he made mention of Tythes, his businesse was not to argue against tythes, but the change of the <hi>Priesthood.</hi>
+               </p>
+               <p>
+                  <hi>Obj. But if the Levitical Priesthood be changed, then the law of tythes which were the maintenance, is also Changed, and must not be imitated.</hi>
+               </p>
+               <pb n="20" facs="tcp:118990:12"/>
+               <p>
+                  <hi>Ans.</hi> I deny the consequence. Observe, I do not speak of the <hi>meat offerings, sin-offerings, trespasse-offerings, heave-offerings, wave-offerings,</hi> nor of other Sacrifices, whereof the Priests had a breast or shoulder &amp;c. as they had of all besides the <hi>Holocaust</hi> being Types of Christ besides divers other things, which heightned their maintenance; but I speak only of those tythes which the people paid to the <hi>Levites,</hi> of the which <hi>Levites</hi> payed the <hi>tenth</hi> to the Priests, as also of what rose the Suburbs of their own cities [as some conceive.] <hi>The work may be changed, but not the wages, so the consequence holds not, unlesse the wa<g ref="char:EOLhyphen"/>ges were of the same nature, with the work: Typisying Christ as did the work.</hi> Neither was a great part of their work typical, for which they had the wages, <hi>i e. Teaching of</hi> the people, which is our work now. The tythes must ty<g ref="char:EOLhyphen"/>pifie Christ, or else they do not deny him come in the flesh.</p>
+               <p>I looked for this, but none of my adversaries, did shew how tythes were a type of Christ: and now I challenge all the quakers, the citizens of <hi>Kent,</hi> with all other adver<g ref="char:EOLhyphen"/>saries of tythes to give a clear account, <hi>What the number Ten, did Typifie in Christ?</hi> The <hi>Corn, oyl, lambe, wooll, wine,</hi> &amp;c.
+<note place="margin">
+                     <hi>Aquinas,</hi> 22 ae. q. 87. a. 1. hath a pretty fancy about the number <hi>ten,</hi> if the Quakers like it they may take it: and <hi>Gomarus</hi> his opinion of it, in 7 <hi>Heb.</hi> I add only the number <hi>seven</hi> in Scripture seems to be rather a per<g ref="char:EOLhyphen"/>fect number.</note> The <hi>matter</hi> of the tythes were no type of Christ, for by <hi>Gal.</hi> 6.6. you are bound to communicate of these unto us, and increase must be, else you can have none. So that the type must be in the bare number <hi>Ten.</hi> Shew your selves men in giving a convincing proof, what <hi>Ten</hi> typi<g ref="char:EOLhyphen"/>fied, else you have lost the cause.</p>
+               <p n="2">2. If <hi>Ten</hi> be typical, then that number must be avoid<g ref="char:EOLhyphen"/>ed in all our maintenance, and then that Gentleman of a Congregational Church did very ill to give <hi>ten</hi> pounds <hi>per annum</hi> to two Ministers freely.</p>
+               <p n="3">3. Then the houses and lands, the <hi>cities</hi> and <hi>suburbs,</hi> were also typical of Christ, and so we must have neither house to dwell in, nor any land to help us. Set down convincingly what the <hi>Levites</hi> houses did typifie, and lands. <hi>If you say</hi> [as some do] <hi>Cannan was a type of heaven. A.</hi> 1 Heaven and Christ are not the same. 2. The
+<pb n="21" facs="tcp:118990:12"/>type is not removed but by the Antytype; I will pro<g ref="char:EOLhyphen"/>mise you we wil ask you no tythes nor houses or lands, when the Antitype, heaven is come. 3. <hi>Canaan,</hi> not the <hi>Levites</hi> Cities only was a type of heaven; what then, you must have no lands or houses, no more then we? pray remember their cities and suburbs were part of their maintenance as well as tythès.</p>
+               <p n="4">4. The tythes which were payed into the Levites [for of them I speak strictly] together with their cities, and suburbs, belonging to the <hi>judicial</hi> and not to the <hi>Cere<g ref="char:EOLhyphen"/>monial</hi> law. <hi>Gomarus</hi> upon <hi>Heb.</hi> 7 [one who wil not allow tythes to be due <hi>jure divino</hi>] saith, there was a <hi>natural equity</hi> in the tythes given to the Levites in recompence of a double losse. 1. That the 12. part of the inheritance of the <hi>Jsraelites:</hi> was taken from the Levites, and transla<g ref="char:EOLhyphen"/>ted to the Sons of <hi>Joseph:</hi> [This is plain in Scripture, and thus farr they belonged to the <hi>judicial</hi> law] 2. Be<g ref="char:EOLhyphen"/>cause they were segregated to the worship of God, and so could not attend to provide for their Families as o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>If <hi>Gomarus</hi> stretch the <hi>natural equity</hi> unto the <hi>quotam</hi> [as they say] that would make much for us, but I will not defend that under his second head.</p>
+               <p>The Schoolemen speak the most rationally to this point their reason, more solid, then theirs who would have them to belong to the <hi>Ceremonial</hi> [upon the ground I mentio<g ref="char:EOLhyphen"/>ned in my third head] and partly to the judicial law. See: <hi>Hales</hi> p. 3. q. 51. m. 3. Thus <hi>Aquinas</hi> 22. q. 87. a. 1. <hi>Ar<g ref="char:EOLhyphen"/>ragon. ib. Suares de leg.</hi> p. 683. <hi>Bellermins</hi> reason is very clear that the law of tythes did not belong to the Cere<g ref="char:EOLhyphen"/>monial law, but judicial. <hi>Nam non ordinatur immediate ad colendum Deum sed ad aequitatem inter homines constitu<g ref="char:EOLhyphen"/>endum.</hi> To 2. p 127.</p>
+               <p>They were immediately appointed for the comfort and sustaining of the natural lives of the Levites and their Families, and there ended</p>
+               <p>If then these belonged to the <hi>judicial</hi> law, the Ma<g ref="char:EOLhyphen"/>gistrate is no more hindered [for any peculiar reason that
+<pb n="22" facs="tcp:118990:13"/>appeares] from making a law for the payment of tythes, then he is hindered from making that law against <hi>Thieves. Exod.</hi> 22.1. which did belong to their <hi>judicial</hi> law, and I believe would please some of our honest Judges better then the laws now extant.</p>
+               <p>This is sufficient to shew how empty and vain the cry of Antichristianisme is by these <hi>Antidecimists,</hi> and to shew that the 7. <hi>Heb.</hi> 12. will not be sufficient, to hinder the Magistrate, but he may do as God did. Taking Gods allowance for the best proportion.</p>
+               <p>But yet to clear our selves further.</p>
+               <p n="1">1. Many Ministers who take tythes take the <hi>eleventh</hi> sheafe, some Impropriators have done it; if any man who shews himself indeed a conscientious man, would de<g ref="char:EOLhyphen"/>sire that of his Minister, I am confident no Minister would deny it who were godly: Now here your conscience is fully cleared, unlesse you can make <hi>Ten</hi> and <hi>eleven</hi> to be the same number.</p>
+               <p n="2">2. Many Ministers compound for the tythes, which the Levites did not, they were bound to pay them in kind, and did so. Our Compositions below the worth, in our Town some of my people tell me, they compound at two Shillings six pence in the pound. So much it cost them to the Impropriator and my self. Yet few complain, if any, when some have forced me in hard years to take my tythe in kind or else I could have nothing; the next year I took in kind, and that year have payed for <hi>three</hi> years, and yet the Commodity [Hops] bare but an ordinary price.</p>
+               <p>
+                  <hi>Obj. But the Kentish citizens say p.</hi> 25. <hi>that we take</hi> tythe-pigs, <hi>and in this the Parson hath gotten the advantage of the Jew.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> First, This is a clear proof the law is changed [if that be the meaning of <hi>Heb.</hi> 7. as you plead] we take not tythes by their law, so you have the thing you plead for.</p>
+               <p>Secondly, We are not tyed to the <hi>tenth</hi> pig, but the people pay us the <hi>seventh,</hi> which still proves the <hi>Levitical</hi> law and ours are different. I do not know that ever I
+<pb n="23" facs="tcp:118990:13"/>heard any man complain because he payed the <hi>seventh</hi> pig; nor have some any cause to do so, being scarce worth the sending.</p>
+               <p>Obj. <hi>The quakers tell us, that the Tythes were to be car<g ref="char:EOLhyphen"/>ried all to Jerusalem, and that the fatherlesse, widdow, and strangers were to eate thereof.</hi> But 'tis not so with us.</p>
+               <p>
+                  <hi>A.</hi> The men shew their ignorance: the people payed more then one sort of Tythes: the first tythe they payed to the Levites in kind; and this tythe in the judgement of divers learned men was not carried to <hi>Jerusalem,</hi> but payed to the Levites at home. To be sure this Tythe they were not bound to eate at <hi>Jerusalem,</hi> but any where, <hi>Num.</hi> 18.31. Of these Tythes the Levites payed a tenth to the Priest [true, we pay Tenths, but not to a Priest but to the civill Magi<g ref="char:EOLhyphen"/>strate.]</p>
+               <p>Secondly, then the people were bound to separate a second Tythe [this our people would grudge at] and this they were not bound to pay in kind, but might turn into money [exact to the worth] if they lived far from <hi>Jerusa<g ref="char:EOLhyphen"/>lem, Deut.</hi> 14.23, 24, 25. with which they feasted before the Lord. Some say the husbandman made a kind of a love-feast at <hi>Jerusalem,</hi> and invited the Priest and Levite to it. But this was the 1, 2, 4, 5. years, not the 3, or 6.</p>
+               <p>Thirdly, every third yeare they payed the poore folks Tythe: now this yeare they were not bound to carry that Tythe to <hi>Jerusalem,</hi> but might eate it within any of their gates, <hi>Deut.</hi> 14.28. and there the Levite, stranger, &amp;c. did eate, <hi>v.</hi> 29. for these different tythes, you may see how <hi>Tobit.</hi> 1. <hi>ch.</hi> 7.8. saith he payed them; which book, though I quote not, as <hi>Parnel</hi> the quaker did <hi>Wisdom</hi> 4.8, 9. to oppose <hi>Levit.</hi> 19.32. Apochrypha to oppose the Canon, yet in matter of fact, being agreeable to the canon, it serves to clear it; the <hi>Hebrews</hi> in their writings agreeing to what is said.</p>
+               <p>To conclude, if men be thus troubled in their consci<g ref="char:EOLhyphen"/>ences for paying of Tythes, then let them, 1. buy Land which is to pay no Tythes, if they can: or, 2. agree with
+<pb n="24" facs="tcp:118990:14"/>their Landlord before hand, let him pay the tythe, and he pay his landlord his rent accordingly. Or, 3. get the Mini<g ref="char:EOLhyphen"/>ster to take the eleventh sheafe. Or, 4. compound about two shillings in the pound else it wil be like to Tyths; the tenth shilling. Or 5. occupy no land, put turne all Tradesmen. Any of these waies will save conscience, if my former discourse convince them not, that upon the law of the Nation they are bound to pay the Tenth.</p>
+               <p>The Second thing they cry out of, is <hi>Oppression.</hi>
+               </p>
+               <p>If this law for Tythes were now made when Tennants had hired their farmes at such rents, and yet now must pay Tythes, which they were not pound unto when they hired them; then there were some cause why men should cry out of Oppression; but now there is not the least cause for this word.</p>
+               <p n="2">2. Could the civil power secure our inheritance, and pro<g ref="char:EOLhyphen"/>vide for us some other way for two or three years, &amp; make a law that all Landlords should have power to make new Leases of their farmes, because now Tythes were not payed to the ministers, as they were when they made their Leases; then should men see whither the payment of Tythes to the ministers were Oppression or not. Did not your Landlord let you a farm at such a rent, considering it, as paying tythes, as well as Constable, Oversers, and Church-wardens rates? some farms pay twenty pound <hi>perannum</hi> for Tythes, if the farme did not pay so, doe you think the Landlord would not looke on his farme as worth so much more rent to him.</p>
+               <p>If the Landlord were to sell this farm which payes 20 pound<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>per annum</hi> for Tythes, if he could sell it Tythe<g ref="char:EOLhyphen"/>free, would he not aske so much the more for his farme? so many hundreds of Pounds: which now he cannot doe, being he must sell it, as paying yearely so much for Tythe.</p>
+               <p n="3">3. Put case some rich man should upon some service he requires of you and your posteritie, give to you and your posteritie for ever the tenth part of the increase of some great farme, and this farme whither it be sold or let, yet
+<pb n="25" facs="tcp:118990:14"/>must be so <hi>sold</hi> to him that <hi>buyes</hi> it, or <hi>let</hi> to him who <hi>hires</hi> it, as paying the tenth part of the Increase to you and your posteritie; would you thinke when you or your posteritie [performing the service] came for the tenth part of the increase, that the man did well to charge you with oppression for so doing? Is not the case the same? The King, Lords, and Commons, many years since, did make the law for the payment of the tenth of the increase of the land, to the Ministry, and were content their owne lands as well as other mens should not be exempted, but pay Tythes: and thus for some hundred of yeers have <hi>sold</hi> and <hi>Let</hi> Lands; and people have <hi>bought,</hi> and <hi>hired</hi> lands as paying Tythes; where then is there a shadow of Oppression?</p>
+               <p n="4">4. Shew me the man whom paying of Tythes did ever undoe. If farmers have had skill to manage their farmes, were industrious, not given to potting, or other evil courses; nor some eminent hand of God against them; and the rent not oppressing: [for I conceive usurers who lets out mony at 12. <hi>per cent.</hi> [if any such be] are not such oppressors as some Landlords are in the renting of their farmes] I say, if the cause have not lien in some of the forementioned heads shew us the man who by pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of Tythes hath decayed? do we not see the contrary, how men live comfortably, and bring up ther families well, and yet pay Tythes? Since Taxes have come, many have complained who did never complain as Tythes that I heard of.</p>
+               <p n="5">5. I pay Tythes my self to the Impropriatour, he comes into my ground and takes a way every tenth sheafe, and never thanks me for it; nor am I such a foole to expect he should; the question is, whither the tenth sheafe be mine or his? if it were mine, he should not have a handful of a sheafe; but being its his, I can say nothing to him. I bought the Land as paying Tythes.</p>
+               <p>Here by the way while the Quakers, and Citizens of Kent charge us with Oppression; let us see whither they be not guilty of Theft, in detaining of our Tythes from us.</p>
+               <pb n="26" facs="tcp:118990:15"/>
+               <p>
+                  <hi>Those who possesse goods to which they have not a just and due Title, they are guilty of theft.</hi>
+               </p>
+               <p>
+                  <hi>But the Quakers, and others who detaine Tythes, possesse goods to which they have not a just and due title. Ergo they are guilty of theft.</hi>
+               </p>
+               <p>The major is plaine, for it is the affirmative part of the eight Commandement, that <hi>we have a just and due Title to what ever we possesse;</hi> else we breake the Commandement, and steale.</p>
+               <p>The minor is denied; the Quakers and Kentish citizens say, the Tythes are their <hi>owne,</hi> 1. P. 24. but this is false; for,</p>
+               <p>
+                  <hi>Those who buy, hire, or inherit lands, which are to pay the Tenth of the increase to</hi> another, <hi>they cannot have a just title to the Tenth of the increase themselves.</hi>
+               </p>
+               <p>
+                  <hi>But the quakers and others, buy, hire, or inherit lands, which are to pay the Tenth of the increase to</hi> Another, [unlesse they have some particular exemption by law] Therefore <hi>the quakers have not any just title to the Tenth themselves.</hi> And <hi>consequently they are not their own.</hi>
+               </p>
+               <p>Unlesse the law (as I said) exempt, as some particular grounds are from payment of the great Tythes. You can buy no lands, nor hire, nor can inherit, nor can a friend give lands, but they must all pay Tythes, and can<g ref="char:EOLhyphen"/>not be possessed honestly, but as paying Tythes. As out of divers lands men have given so much yearly to the poor of such or such townes, and schooles, who ever buy or inherits those lands, must pay so much out, if he doth not, but detaines it, he is guilty of <hi>theft.</hi> For he hath no title to it. Hence the quakers lying in prison for not payment of tythes is a Testimony they are guilty of <hi>theft,</hi> being guilty of the breach of Christs law, rather then any Testimony that Christ is come in the flesh.</p>
+               <p>
+                  <hi>Obj. The Kentish citizens tell the Parliament: p.</hi> 19. <hi>If they will repeal the law for Tythes, then our right is gone.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> This belongs to some others to plead; whether
+<pb n="27" facs="tcp:118990:15"/>the Parliament can do it <hi>justly.</hi> I cannot as yet see but the Parliament may as well take away any of <hi>their</hi> lands, as our Patrimony, but then the citizens would cry out of injustice.</p>
+               <p>If the same <hi>individual</hi> persons, and Parliament which first made the law, and gave away of their own estates to the maintenance of the Ministry, were now extant, then there might be more said for the justnesse of the repeale: but these persons being dead so many hundreds of years since, and lands having been since inherited, bought, sold, hired, &amp;c. As paying tythes, I know not how a Parliament now can justly take away our, more then another mans Inheritance. As a Grand-child cannot take away what his Grand-father gave out of his lands, for maintaining of <hi>schools,</hi> the <hi>poor,</hi> &amp;c.</p>
+               <p>If the Parliament should take away these tythes, yet then they must settle some other maintenance, else they would not shew themselves to be Christians, nor so just as the moral Heathen.</p>
+               <p>No <hi>wise</hi> state will ever do it: Because here is main<g ref="char:EOLhyphen"/>tenance already provided for the Ministry, which no man can claim as his <hi>own,</hi> how then can a state provide better. As for the cryes of <hi>conscience</hi> and <hi>oppression,</hi> these are flamms.</p>
+               <p>The state then will wrong those men, who have sold their lands under, as paying of tythes, which they would not have done; Also the state must wrong all the <hi>Land<g ref="char:EOLhyphen"/>lords</hi> who have made leases of their farmes, unlesse they will make a law, that since men shall pay no more tythes they may make new leases of their farmes, and then shall men see, whether tythes, be their own, and whether it be oppression to pay them; as now they say: they will finde new Rents set upon farmes.</p>
+               <p>But to conclude, these enemies of our maintenance, whose mouthes the authority of Christ and his Apostles will not stop, nor sound reason, I will send them to the Heathen King, <hi>Gen.</hi> 47.22. who gave to his Idolatrous Priests, [so the <hi>Chalde, Greek, Syriac,</hi> and <hi>Arabick,</hi> render
+<pb n="28" facs="tcp:118990:16"/>the word] portions out of his own treasuries, their lands reserved for them and not sold in that time of famine, [this long before tythes were appointed to <hi>Levi</hi>] and be<g ref="char:EOLhyphen"/>sides these lands they had the third part of all yearly tributes and levies, as <hi>Diodo: Siculus</hi> tels us.</p>
+               <p>The sum is. Heathen men have been far more kind to their Idolatrous Priests, then English Christians are unto the Ministers of Christ, whom Christ hath so much own<g ref="char:EOLhyphen"/>ed, and will own, when men and divils have done their worst.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Postscrip.</head>
+            <p>
+               <hi>Obj.</hi> The <hi>K. Petitioners</hi> tell the <hi>Parl. p.</hi> 23. by reason of tythes lesse land is tilled, men turning it to pasture which will bring a sacrifice of corn, men being discouraged to improve the land by <hi>dung, Marle</hi> &amp;c. [And this is the <hi>oppression,</hi> we partake of the tenth of their <hi>labour, sweat, cost,</hi> &amp;c.</p>
+            <p>
+               <hi>Ans.</hi> I hear not of one man about us who improves the lesse upon this account; as for <hi>scarcity,</hi> the Lord hath witnessed against them, since their <hi>petition,</hi> corn being so cheap through the plenty of it, that the farmer did scarce know how to live, tell the <hi>Parl.</hi> made an Act for the ex<g ref="char:EOLhyphen"/>portation of corn.</p>
+            <p>Secondly, men may choose whether they will dung the land or not: Ministers doe not use to complain of the people because they do not improve their lands to aug<g ref="char:EOLhyphen"/>ment their tythes, they can have but their tythes, if they rise but to a handful, they may throw it up to pasture if they will, the Ministers do not oppose them.</p>
+            <p>Thirdly, If tythes could be justly taken from us, then let the tenant see if he can parswade his landlord not to raise his rent [the land being now tythe-free] because he improving his ground with dung, &amp;c. It would be
+<pb n="29" facs="tcp:118990:16"/>oppression to raise the rent. Then neither is it oppression now.</p>
+            <p>Fourthly, Vpon this account, tythes were a great op<g ref="char:EOLhyphen"/>pression in <hi>Canaan,</hi> for the Levite did partake of the tenth of the labour, sweat, cost of the people.</p>
+            <p>
+               <hi>Obj. But God gave them Canaan freely, and blessed them much</hi> (say they.)</p>
+            <p>
+               <hi>Ans.</hi> If God gave them the land freely, and you buy or hire land with so much abatement of price because of tythes, which else you should pay if land were tythe-free, [the seller or letter of land allowes you in his price for tythes] the tythes are <hi>free</hi> to you; and so no wrong to pay them.</p>
+            <p>Secondly, Abundance of ours have their lands by In<g ref="char:EOLhyphen"/>heritance, or gift and so as free unto them, as <hi>Canaan</hi> to the <hi>Jew.</hi>
+            </p>
+            <p>Thirdly, in <hi>Canaan</hi> they sould their lands though not <hi>for ever Levit.</hi> 25.23.28. he that bought the land, let him improve the land as he would, the <hi>Levite</hi> had the tenth of his cost and labours, and this was <hi>oppression;</hi> it seems if a poor <hi>Jew</hi> hired land, and payed the tythes the rent was according, the more the Lord blessed them the more the <hi>Levite</hi> had. They payed <hi>first fruits</hi> a <hi>se<g ref="char:EOLhyphen"/>cond tenth appeared thrice before the Lord in a year not empty,</hi> had divers <hi>offerings</hi> out of wheat, [which requi<g ref="char:EOLhyphen"/>red a blessing] from which ours are free.</p>
+            <p>If Ministers do not pay <hi>first fruits</hi> and <hi>tenths</hi> to the state, the state will turn us out of our places.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 1. line 2. read <hi>words,</hi> p. 5. l. 5. comma at <hi>this,</hi> p. 6. l. 8. r. <hi>these Churches were,</hi> p. 9. l. 31. <hi>pack</hi> for <hi>part.</hi> l. 35. 5 <hi>Tim.</hi> 22. p. 10. l. 16. <hi>Haire-cloth,</hi> l. 21. blot out <hi>a christ or,</hi> l. 32. <hi>thumb,</hi> p. 12. l. 10. <hi>these,</hi> l. 16 <hi>are</hi> for <hi>is,</hi> l. 21. <hi>own case,</hi> l. 38. <hi>grudge,</hi> p. 16. l. 16. <hi>One text.</hi>
+            </p>
+         </div>
+         <div type="by_the_same_author">
+            <pb facs="tcp:118990:17"/>
+            <head>Books lately published by this Author.</head>
+            <list>
+               <item>1. <hi>Establishing against quaking,</hi> Being a Discovery of the Quakers.</item>
+               <item>2. <hi>The Power of the civill Magistrate in matters of Reli<g ref="char:EOLhyphen"/>gion vindicated; and the extent of it determined,</hi> by Mr. <hi>Stephen Marshall.</hi> Published by his own Copy since his death, with Notes upon the Sermon by Mr. <hi>Firmin.</hi>
+               </item>
+               <item>3. <hi>Of Schism, Parochiall Congregations in</hi> England, <hi>and Ordination by Imposition of Hands.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118990:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
